@@ -35,7 +35,7 @@ class RunTracker {
   }
 }
 
-const runner = new RunTracker("Salman", "Salman@salman.com");
+const runner = new RunTracker("Abdullah", "w2.alharbi.me@gmail.com");
 
 runner.addRun("2017-01-01", 10, 30);
 runner.addRun("2017-01-02", 5, 20);
